@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+    background-color: #343434;
+    padding: 20px;
+    color: white;
+}
+
+.header h2{
+    font-weight: bold;
+    border-color: black;
+}
+
+#logo{
+    font-size: 40px;
+    color:#ffd000;
+}
+
+.btn-header{
+    color: white;
+    background-color: black;
+}
+
+.navbar{
+    background-color: black;
+    color:white;
+}
+
+.nav-link{
+    padding: 15px;
+}
+
+#number-amount {
+    padding: 10px;
+    border: 1px solid #ececec;
+    border: 1px;
+    width: 40px;
+    height: 40px;
+}
+
+.btn_main{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/* .confirm {
+    background-color: #fafafa;
+    width: 300px;
+    margin-left: 10px;
+    height: 370px;
+} */
+
+.confirm img {
+    width: 60%;
+    margin-left: 20px;
+}
+
+.describe{
+    background-color: #fafafa;
+    height: 370px;
+}
+
+
+
+.footer1{
+    background-color: #343434 ;
+    color: white;
+    padding: 15px;
+}
+
+.footer2{
+    background-color: #191919;
+    color: white;
+    padding: 20px;
+}
+
+.footer3{
+    background-color:#0f0f0f;
+    padding: 5px;
+    text-align: center;
+}
+
+.main2 img {
+    padding: 10px;
+    border-radius: 20px;
+    width: 100%;
+}
+
+.main3 h4{
+    text-align: center;
+    margin-top: 25px;
+}
+
+.main3 img {
+    padding: 10px;
+    border-radius: 20px;
+    width: 100%;
+}
